@@ -1,5 +1,6 @@
 # Introduction to Statistical Analysis of Climate Time Series in HPC systems
-## By Danny Vargas PhD                     Apr 2026
+## By Danny Vargas PhD.                     
+## Apr 2026
 
 ## Introduction
 
@@ -17,11 +18,17 @@ password: DonBosco2026*
 ==========================
 
 echo "# testing" >> README.md
+
 git init (e.g., git init bin)
+
 git add README.md
+
 git commit -m "first commit"
+
 git branch -M main
+
 git remote add origin git@github.com:revistalagranja/WaveletsHPC.git (only the first time, after that skip to next line)
+
 git push -u origin main
 
 
