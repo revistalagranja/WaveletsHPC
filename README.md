@@ -43,6 +43,20 @@ git pull
 
 
 
+# In case of subdirectories or .git files
+
+git rm --cached -r docs/Article_pandoc docs/pandoc_article_template
+
+git add docs/Article_pandoc docs/pandoc_article_template
+
+git commit -m "Track pandoc folders as regular directories"
+
+git push
+
+
+
+
+
 
 ### References
 
