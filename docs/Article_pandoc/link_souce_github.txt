@@ -1,0 +1,3 @@
+MartinHeroux/pandoc_article_template
+
+https://github.com/MartinHeroux/pandoc_article_template/tree/main
