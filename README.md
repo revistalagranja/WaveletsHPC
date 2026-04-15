@@ -35,6 +35,14 @@ git remote add origin git@github.com:revistalagranja/WaveletsHPC.git (only the f
 git push -u origin main
 
 
+*If the github is ahead (e.g., there were changes made into the README.m or .gitignore) then the main branch is ahead of the others. Use the following:
+
+git fetch
+
+git pull
+
+
+
 
 ### References
 
