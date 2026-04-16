@@ -54,7 +54,10 @@ git commit -m "Track pandoc folders as regular directories"
 git push
 
 
+# root (sudo privileges)
+enroot start -r -w enrootubuntu
 
+enroot start -r -w --mount "$PWD:/workspace" enrootubuntu
 
 
 
