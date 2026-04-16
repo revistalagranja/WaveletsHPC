@@ -57,7 +57,7 @@ git push
 # root (sudo privileges)
 enroot start -r -w enrootubuntu
 
-enroot start -r -w --mount "$PWD:/workspace" enrootubuntu
+enroot start -w --mount "$PWD:/workspace" enrootubuntu
 
 
 
