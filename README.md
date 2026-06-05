@@ -87,5 +87,13 @@ https://doi.org/10.1007/978-3-031-07719-7
 -Vaughan, Simon. University of Leicester. Scientific Inference: Learning from Data
 https://www.cambridge.org/core/books/scientific-inference/D93CAC2C8E858A9CFE7B7A3B6F2999F4
 
+-Donald B. Percival, Andrew T. Walden. Wavelet Methods for Time Series Analysis
+https://www.amazon.com/Analysis-Cambridge-Statistical-Probabilistic-Mathematics/dp/0521685087
+
+-Donald B. Percival, Andrew T. Walden. Spectral Analysis for Univariate Time Series
+https://www.cambridge.org/core/books/spectral-analysis-for-univariate-time-series/308BC6C9B881E490ED3D4C9F89ED8058
+
+
+
 
 
