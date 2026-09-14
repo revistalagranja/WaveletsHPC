@@ -12,12 +12,6 @@
 ### GitHub (first time)
 ==========================
 
-username: revistalagranja
-
-password: DonBosco2026*
-
-==========================
-
 echo "# testing" >> README.md
 
 git init (e.g., git init bin)
