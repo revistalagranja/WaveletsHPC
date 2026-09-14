@@ -1,4 +1,4 @@
-# Introduction to Statistical Analysis of Climate Time Series in HPC systems 2026
+# Introduction to Statistical Analysis of Climate Time Series in HPC systems - 2026
 ## By Danny Vargas PhD.
 
 ## Introduction
